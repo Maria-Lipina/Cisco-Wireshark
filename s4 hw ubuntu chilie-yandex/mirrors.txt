@@ -1,0 +1,4 @@
+rsync://mirror.ufro.cl/ubuntu/ Chilie
+https://mirror.hnd.cl/ubuntu/ Chilie11
+https://mirror.yandex.ru/ubuntu/ Yandex
+http://mirror.yandex.ru/ubuntu/ Yandex11
